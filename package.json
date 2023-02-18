@@ -1,0 +1,23 @@
+{
+  "name": "testdewmo",
+  "version": "1.0.0",
+  "description": "Some text",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayedazharsabri/testdewmo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayedazharsabri/testdewmo/issues"
+  },
+  "homepage": "https://github.com/sayedazharsabri/testdewmo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
